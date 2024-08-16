@@ -1,7 +1,9 @@
 How to start:
 
-Add Url what you want to filter ./input/file.txt
+1. Clone this repo
 
-start docker-compose up -d
+2. Add Url what you want to filter ./input/file.txt
 
-Check result ./output/filtered_file.txt
+3. docker-compose up -d
+
+4. Check result ./output/filtered_file.txt

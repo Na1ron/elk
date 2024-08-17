@@ -7,3 +7,4 @@ How to start:
 3. docker-compose up -d
 
 4. Check result ./output/filtered_file.txt
+privet Diana
